@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SplashIndex",
+    "pages/Main",
+    "pages/AddTaskPage"
+  ]
+}

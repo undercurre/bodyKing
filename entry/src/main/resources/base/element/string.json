@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "privacy_title",
+      "value": "感谢使用BodyKing"
+    },
+    {
+      "name": "privacy_content_one",
+      "value": "我们重视您的隐私，收集基本个人信息、使用数据和设备信息以提供和改进服务。"
+    },
+    {
+      "name": "privacy_content_two",
+      "value": "数据用于个性化内容、安全保障，可能在必要时与第三方服务共享或法律要求下披露。"
+    },
+    {
+      "name": "privacy_content_three",
+      "value": "我们采取技术措施保护数据，限制访问权限。用户有权访问、修改、删除其信息，并随时撤回同意。协议变更将通过应用内通知或电子邮件告知。如有疑问，请联系 "
+    },
+    {
+      "name": "email",
+      "value": "undercurre@163.com。"
+    },
+    {
+      "name": "task_achievement_level",
+      "value": "已经%d天达成目标"
+    }
+  ]
+}

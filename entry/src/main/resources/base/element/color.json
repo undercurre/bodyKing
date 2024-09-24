@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "privacy_color",
+      "value": "#36B82A"
+    },
+    {
+      "name": "privacy_dis_color",
+      "value": "#99E265"
+    },
+    {
+      "name": "tab_bar_sel",
+      "value": "#5273FF"
+    },
+    {
+      "name": "tab_bar_normal",
+      "value": "#D9D9D9"
+    },
+    {
+      "name": "cancel_btn",
+      "value": "#D9D9D9"
+    },
+    {
+      "name": "confirm_btn",
+      "value": "#5273FF"
+    },
+    {
+      "name": "task_color",
+      "value": "#5273FF"
+    }
+  ]
+}
